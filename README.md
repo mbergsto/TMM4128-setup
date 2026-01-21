@@ -1,2 +1,3 @@
 # TMM4128-setup
-Setup guide for TMM4128 course
+
+Setup guide and examples for TMM4128 course
